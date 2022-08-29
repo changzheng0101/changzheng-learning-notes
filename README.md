@@ -11,3 +11,4 @@ this is feature conflict
 add in main
 
 main conflict
+local conflict
